@@ -171,7 +171,7 @@
     "titleBar.inactiveForeground": null,
     "notifications.background": "#011627",
     "notifications.foreground": "#ffffffcc",
-    "notifications.border": "#5f7e97",
+    "notificationToast.border": "#5f7e9766",
     "notificationLink.foreground": "#80CBC4",
     "extensionButton.prominentForeground": "#ffffffcc",
     "extensionButton.prominentBackground": "#7e57c2cc",
